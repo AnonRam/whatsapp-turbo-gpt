@@ -1,6 +1,6 @@
-const sessionName = "harshitethic";
-const donet = "https://harshitethic.in";
-const owner = ["918708056374"]; // Put your number here ex: ["91xxxxxxxxx"]
+const sessionName = "Ramadan";
+const donet = "https://web.facebook.com/profile.php?id=100089243119670";
+const owner = ["2348068119901"]; // Put your number here ex: ["91xxxxxxxxx"]
 const {
   default: sansekaiConnect,
   useMultiFileAuthState,
